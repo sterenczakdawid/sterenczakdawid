@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+
 - 🌱 I’m currently learning React
 
 <!--
 **sterenczakdawid/sterenczakdawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studying Applied Computer Science at the Faculty of Electrical Engineering at the WUT.
 
 Here are some ideas to get you started:
 
