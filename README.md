@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Currently studying Applied Computer Science at Warsaw University of Technology.
 
 - 🌱 I’m currently learning React
 
