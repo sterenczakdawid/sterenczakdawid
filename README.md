@@ -2,7 +2,7 @@
 
 Currently studying Applied Computer Science at Warsaw University of Technology.
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular and TypeScript
 
 <!--
 **sterenczakdawid/sterenczakdawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
